@@ -1,0 +1,144 @@
+.head1{
+    background-color: #F8FFFB;
+}
+.nav-link{
+    font-family: 'Poppins';
+    color: black;
+}
+.btn{
+    font-family: 'Poppins';
+    border-radius: 33px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: #21B573 !important;
+    border: none;
+
+}
+
+#header{
+    background-color: #F8FFFB;
+}
+
+.col-md-7 img{
+    padding: 40px;
+}
+.p-lrn{
+    color: #FD511A;
+    font-family: 'Poppins';
+}
+span{
+    color: #21B573;
+}
+.header h1{
+    color: black;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 48px;
+}
+.boxe-up .card{
+    border: none;
+    background-color: #F8FFFB;
+}
+.card{
+    border: none;
+}
+.boxe-up{
+    margin-top: 30px;
+}
+.card:hover{
+    background-color: white;
+    
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+    
+}
+.card .card1-img{
+    width: 80px;
+    
+    padding: 10px;
+
+}
+.card{
+    font-family: 'Poppins';
+}
+
+.courses h3{
+    padding: 30px;
+    font-family: 'Poppins';
+    color: #413960;
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+
+}
+.card2-img{
+    padding: 20px;
+}
+.courses .btn{
+    font-weight: 400;
+    font-size: 16px;
+}
+.card-bottom img{
+    height: 24px;
+}
+.card-bottom{
+    padding-top: 30px;
+}
+.card-bottom p{
+    padding-left: 5px;
+}
+.testimonial h3{
+    color: black;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+    padding: 30px;
+}
+.testimonial img{
+    width: 120px;
+    padding-right: 20px;
+}
+.testimonial p{
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    padding-left: 20px;
+}
+.footer{
+    margin-top: 50px;
+    background-color: black;
+}
+
+.footer .footer-p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    color: white;
+    padding: 50px 40px 0px 0px;
+}
+.footer h6{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: white;
+    padding: 50px 40px 0px 0px;
+}
+.footer p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    color: white;
+}
+.footer2-text{
+    color: #CDCDCD;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    padding: 50px 0px 15px 0px;
+}
